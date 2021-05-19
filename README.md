@@ -9,13 +9,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-Rathnayaka22700-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Rathnayaka22700)](https://www.twitter.com/codingpotter)
 [![Blogger Badge](https://img.shields.io/badge/-Freesourcecodelk-orange?style=plastic-square&logo=blogger&logoColor=white&link=https://https://freesourcecodelk.blogspot.com)](https://freesourcecodelk.blogspot.com/)
 
-## I'm a Java Developer, and University Student!
-- 🔭 I’m currently studying Plymouth University!
+## I'm a UI/UX designer, and University Student!
+- 🔭 I’m currently studying University of Dublin!
 - 👨‍💻 All of my projects are available at **[freesourcecodelk][website]**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me **rrmchathura@gmail.com**
+- 📫 How to reach me **piyumianjulainfo@gmail.com**
 - ⚡ Fun fact: I love to Design 
 
 
