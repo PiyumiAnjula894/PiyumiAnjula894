@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rrmchathura/rrmchathura/main/developer.gif">
 
-### Hi there, I'm Piyumi Anjula [freesourcecodelk]👋😉
+### Hi there, I'm Piyumi Anjula [freesourcecodelk] 👋�😉
 
 [![Instagram Badge](https://img.shields.io/badge/-chathu._98-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/chathu._98/)](https://instagram.com/chathu._98)
 [![Linkedin Badge](https://img.shields.io/badge/-ChathuraRathnayaka-brightgreen?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chathura-sanjaya-rathnayaka-a6286a19a/)](https://www.linkedin.com/in/chathura-sanjaya-rathnayaka-a6286a19a/)
@@ -28,8 +28,7 @@
 
 <!--END_SECTION:waka-->
 <br />
-[website]: https://freesourcecodelk.blogspot.com
-[freesourcecodelk]: https://freesourcecodelk.blogspot.com/
+
 <!--
 ### 😎 My Status 😎
 <img align="left" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -37,4 +36,5 @@
 <!--
 <img align="left" alt="CreatorGhost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmchathura&show_icons=true&hide_border=true&theme=radical" />
 -->
-
+[website]: https://freesourcecodelk.blogspot.com
+[freesourcecodelk]: https://freesourcecodelk.blogspot.com/
