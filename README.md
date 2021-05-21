@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rrmchathura/rrmchathura/main/developer.gif">
 
-### Hi there, I'm Piyumi Anjula [freesourcecodelk] 👋😉
+### Hi there, I'm Piyumi Anjula. I'm Author of [freesourcecodelk] 👋😉
 
 [![Instagram Badge](https://img.shields.io/badge/-chathu._98-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/chathu._98/)](https://instagram.com/chathu._98)
 [![Linkedin Badge](https://img.shields.io/badge/-ChathuraRathnayaka-brightgreen?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chathura-sanjaya-rathnayaka-a6286a19a/)](https://www.linkedin.com/in/chathura-sanjaya-rathnayaka-a6286a19a/)
