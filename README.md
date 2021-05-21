@@ -5,8 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-PiyumiAnjula-brightgreen?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyumi-anjula-28171b173/)](https://www.linkedin.com/in/piyumi-anjula-28171b173/)
 [![Blogger Badge](https://img.shields.io/badge/-Freesourcecodelk-orange?style=plastic-square&logo=blogger&logoColor=white&link=https://https://freesourcecodelk.blogspot.com)](https://freesourcecodelk.blogspot.com/)
 
-## I'm a UI/UX designer, and University Student!
-- 🔭 I’m currently studying University of Dublin!
+## I'm a UI/UX designer, Quality Assurance Engineer, Java Developer & I'm Undergraduate of University College Dublin!
 - 👨‍💻 All of my projects are available at **[freesourcecodelk][website]**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
